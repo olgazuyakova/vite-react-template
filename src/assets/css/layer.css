@@ -1,0 +1,21 @@
+@layer base {
+	:where(:root),
+	[data-app-theme='light'] {
+		color-scheme: light;
+    --color-app-white-themed: var(--color-app-black);
+    --color-app-black-themed: var(--color-app-white);
+	}
+	[data-app-theme='dark'] {
+    color-scheme: dark;
+		--color-app-white-themed: var(--color-app-white);
+		--color-app-black-themed: var(--color-app-black);
+  }
+	html {
+		font-family: var(--font-family-app);
+		font-weight: var(--font-weight-app-normal);
+	}
+	body {
+		color: var(--color-app-black-themed);
+		background: var(--color-app-white-themed);
+	}
+}
