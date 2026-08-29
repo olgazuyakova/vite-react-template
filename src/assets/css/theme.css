@@ -1,0 +1,11 @@
+@theme {
+	--font-family-app: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+	--font-weight-app-normal: 400;
+
+	--color-app-white: rgba(255, 255, 255, 0.87);
+	--color-app-black: #0F172A;
+	--color-steelblue: #2672a7;
+
+	--color-app-white-themed: var(--color-app-white);
+	--color-app-black-themed: var(--color-app-black);
+}
