@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+    <defs>
+        <!-- Official Cloudflare Color Gradient -->
+        <linearGradient id="cloudflare-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#FAAE40" />
+            <stop offset="50%" stop-color="#F38020" />
+            <stop offset="100%" stop-color="#E45B25" />
+        </linearGradient>
+    </defs>
+    <!-- Verified Core Cloud Paths Normalized to 24x24 -->
+    <path fill="url(#cloudflare-grad)" d="M21.93 12.3c-.09-.32-.23-.62-.43-.88-.41-.53-.99-.87-1.65-.96a3.84 3.84 0 0 0-3.32-2.31h-.1c-.48-1.52-1.63-2.73-3.14-3.15a5.1 5.1 0 0 0-5.74 2c-.66.86-.96 1.93-.84 3a4.04 4.04 0 0 0-2.4 1.77c-.55.83-.71 1.83-.44 2.8.27.97.91 1.76 1.77 2.19a5.1 5.1 0 0 0 2.37.58H19.7c.92 0 1.8-.37 2.45-1.02a3.46 3.46 0 0 0 .97-2.45c-.01-.55-.14-1.08-.39-1.57z" />
+</svg>

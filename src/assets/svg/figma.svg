@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 36" width="24" height="36">
+    <!-- Top Left: Red Semicircle -->
+    <path fill="#F24E1E" d="M0 6a6 6 0 0 1 6-6h6v12H6a6 6 0 0 1-6-6z" />
+    <!-- Top Right: Purple Circle -->
+    <path fill="#A259FF" d="M12 0h6a6 6 0 0 1 6 6 6 6 0 0 1-6 6h-6V0z" />
+    <!-- Middle Left: Blue-Purple Circle -->
+    <path fill="#1ABC9C" d="M0 18a6 6 0 0 1 6-6h6v12H6a6 6 0 0 1-6-6z" />
+    <!-- Middle Right: Blue Circle -->
+    <path fill="#0ACF83" d="M12 12h6a6 6 0 0 1 6 6 6 6 0 0 1-6 6h-6v-12z" />
+    <!-- Bottom Left: Green Semicircle/Teardrop -->
+    <path fill="#FF7262" d="M0 30a6 6 0 0 1 6-6h6v6a6 6 0 0 1-6 6 6 6 0 0 1-6-6z" />
+</svg>
