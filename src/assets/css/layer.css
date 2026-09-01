@@ -2,13 +2,13 @@
 	:where(:root),
 	[data-app-theme='light'] {
 		color-scheme: light;
-    --color-app-white-themed: var(--color-app-black);
-    --color-app-black-themed: var(--color-app-white);
+		--color-app-white-themed: var(--color-app-white);
+		--color-app-black-themed: var(--color-app-black);
 	}
 	[data-app-theme='dark'] {
     color-scheme: dark;
-		--color-app-white-themed: var(--color-app-white);
-		--color-app-black-themed: var(--color-app-black);
+    --color-app-white-themed: var(--color-app-black);
+    --color-app-black-themed: var(--color-app-white);
   }
 	html {
 		font-family: var(--font-family-app);

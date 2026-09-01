@@ -23,8 +23,10 @@ export default defineConfig({
 			'@': resolve(__dirname, './src'),
 			'@css': resolve(__dirname, './src/assets/css'),
 			'@svg': resolve(__dirname, './src/assets/svg'),
+			'@hooks': resolve(__dirname, './src/hooks'),
 			'@pages': resolve(__dirname, './src/components/pages'),
 			'@layout': resolve(__dirname, './src/components/layout'),
+			'@shared': resolve(__dirname, './src/components/shared'),
 			'@constants': resolve(__dirname, './src/constants'),
 		}
 	},

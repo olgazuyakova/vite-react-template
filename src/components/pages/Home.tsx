@@ -1,8 +1,8 @@
 export default function Home() {
   return (
-    <div className="space-y-6 px-2">
+    <div className="space-y-6">
       <div className="space-y-3">
-	      <h2>Modern IT Architecture, Web Development, and Enterprise Data Solutions.</h2>
+	      <h2>Modern IT Architecture, Web Development, and Data Solutions.</h2>
 	      <p>We engineer secure, scalable software platforms and automated data pipelines that accelerate growth for forward-thinking businesses.</p>
       </div>
       <div className="space-y-3">

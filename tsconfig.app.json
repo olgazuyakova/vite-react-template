@@ -24,7 +24,9 @@
 		"paths": {
 			"@constants/*": ["./src/constants/*"],
 			"@layout/*": ["./src/components/layout/*"],
+			"@shared/*": ["./src/components/shared/*"],
 			"@pages/*": ["./src/components/pages/*"],
+			"@hooks/*": ["./src/hooks/*"],
 			"@css/*": ["./src/assets/css/*"],
 			"@svg/*": ["./src/assets/svg/*"],
 			"@/*": ["./src/*"]
