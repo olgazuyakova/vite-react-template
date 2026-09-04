@@ -4,11 +4,13 @@
 		color-scheme: light;
 		--color-app-white-themed: var(--color-app-white);
 		--color-app-black-themed: var(--color-app-black);
+		--color-app-gray-300-themed: var(--color-gray-300);
 	}
 	[data-app-theme='dark'] {
     color-scheme: dark;
     --color-app-white-themed: var(--color-app-black);
     --color-app-black-themed: var(--color-app-white);
+		--color-app-gray-300-themed: var(--color-gray-600);
   }
 	html {
 		font-family: var(--font-family-app);
